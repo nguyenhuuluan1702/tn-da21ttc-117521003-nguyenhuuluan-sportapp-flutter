@@ -42,6 +42,8 @@ Visual Studio Code (khuyến nghị): Cài đặt Extensions Flutter và Dart.
 
 Android Studio: Dùng AVD Manager để tạo thiết bị ảo Android.
 
+Có thể sử dụng thiết bị thật nếu cần giảm ram tiêu thụ khi test.
+
 ### 4. Cài Đặt Backend (Node.js + MongoDB)
 
 Cài Node.js từ nodejs.org

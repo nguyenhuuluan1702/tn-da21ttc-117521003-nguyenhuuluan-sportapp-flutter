@@ -10,7 +10,7 @@ const analyticsRouter = require('./routes/analytics');
 
 const PORT = 3000; // Định nghĩa cổng
 const app = express(); // Tạo ứng dụng Express
-const DB = "mongodb+srv://huuluanflutter:17022003@cluster0.sahn2tk.mongodb.net/";
+const DB = "Your db";
 
 
 app.use(cors({
